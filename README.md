@@ -8,7 +8,7 @@ Recently, there are growing security and privacy concerns regarding smart voice 
 
 <br>
 <div align="center"> 
-    <img src="pipeline.pdf">
+    <img src="pipeline.png">
     <p>The system pipeline of VoiceAttack</p>
 </div>
 
